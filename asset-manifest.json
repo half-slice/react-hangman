@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-hangman/static/css/main.b84ef5ea.css",
+    "main.js": "/react-hangman/static/js/main.40187dde.js",
+    "static/media/eng.txt": "/react-hangman/static/media/eng.3bd2c41c424664a760d7.txt",
+    "index.html": "/react-hangman/index.html",
+    "main.b84ef5ea.css.map": "/react-hangman/static/css/main.b84ef5ea.css.map",
+    "main.40187dde.js.map": "/react-hangman/static/js/main.40187dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84ef5ea.css",
+    "static/js/main.40187dde.js"
+  ]
+}
